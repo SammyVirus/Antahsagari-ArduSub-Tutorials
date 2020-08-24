@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import rospy
 from pymavlink import mavutil
 from sensor_msgs.msg import BatteryState
