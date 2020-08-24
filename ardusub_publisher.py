@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import time
 import rospy
 from pymavlink import mavutil
